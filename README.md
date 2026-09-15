@@ -1,48 +1,28 @@
-# Joshua C. Buli — Portfolio
+# Joshua C. Buli
 
-Personal portfolio site for Joshua C. Buli, Software Developer / .NET Developer. Built with React 18, Vite, Tailwind CSS, and Framer Motion.
+**Software Developer | .NET Developer**
 
-**🔗 Live site: [joshua-buli-portfolio.vercel.app](https://joshua-buli-portfolio.vercel.app)**
+### 🔗 [View Live Portfolio](https://joshua-buli-portfolio.vercel.app)
 
-## About
+---
 
-Single-page portfolio covering professional summary, work experience, automation/reporting highlights, AI-assisted development workflow, technical skills, education, and contact details.
+Results-driven Software Developer with 4+ years of professional experience building and maintaining business-critical applications across warehouse, ordering, reporting, and inventory management systems used by multi-branch businesses.
 
-## Getting Started
+## What's Inside
 
-```bash
-npm install
-npm run dev
-```
+- **Professional Summary** — background and core strengths
+- **Experience** — role history, from IT support up through enterprise application development
+- **Automation & Reporting** — scheduled reporting systems built to cut manual work across branches
+- **AI-Assisted Development** — how AI tools fit into my day-to-day workflow
+- **Skills** — languages, frameworks, databases, and tools I work with
+- **Education**
+- **Contact**
 
-The dev server runs at `http://localhost:5173`.
+## Core Technical Skills
 
-## Build
+C# · .NET · ASP.NET Core (MVC & Web API) · WinForms · SQL Server · MySQL · Dapper ORM · JavaScript · jQuery · Bootstrap · REST APIs · Git · Docker
 
-```bash
-npm run build
-npm run preview
-```
+## Contact
 
-`npm run build` outputs a static production build to `dist/`. `npm run preview` serves that build locally so you can verify it before deploying.
-
-## Project Structure
-
-```
-src/
-  components/   UI components, one per section (Navbar, Hero, About, Experience, ...)
-  data/         Content as plain JS objects/arrays — edit these to update site copy
-  hooks/        Small reusable hooks (scroll-spy, mobile breakpoint detection)
-```
-
-All page content (experience, skills, education, contact info) lives in `src/data/`, so copy can be edited without touching component code.
-
-## Deployment (Vercel)
-
-This is a static Vite app with no client-side routing (all navigation is same-page anchor links), so no `vercel.json` or custom rewrites are required.
-
-The live site above is deployed on Vercel. To connect automatic deploys on every push:
-
-1. In the [Vercel dashboard](https://vercel.com/dashboard), open the `joshua-buli-portfolio` project.
-2. Go to **Settings → Git** and connect this GitHub repository.
-3. From then on, every push to `main` triggers a new production deployment automatically (build command `npm run build`, output directory `dist` — auto-detected).
+- **Email:** joshuab495@gmail.com
+- **Phone:** 09939979648 / 09636419900
