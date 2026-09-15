@@ -26,3 +26,7 @@ C# · .NET · ASP.NET Core (MVC & Web API) · WinForms · SQL Server · MySQL ·
 
 - **Email:** joshuab495@gmail.com
 - **Phone:** 09939979648 / 09636419900
+
+## This Portfolio Site
+
+Built with React, Vite, Tailwind CSS, and Framer Motion. Deployed on Vercel.
